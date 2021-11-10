@@ -1,0 +1,19 @@
+{
+  "name": "sisterbonezcomics",
+  "version": "1.0.0",
+  "description": "For my lovely cousin <3. This is a PWA of an online ecommerce shop for purchasing her comics",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"test: console.log(hello hello)\""
+  },
+  "keywords": [
+    "author:",
+    "Seyed",
+    "Tabatabaei"
+  ],
+  "author": "Seyed Tabatabaei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
